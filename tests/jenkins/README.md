@@ -1,0 +1,1 @@
+# We use jenkins to manage the CI, all jenkins configuration, setup, hooks, running script are maintained here

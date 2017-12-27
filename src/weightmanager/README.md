@@ -1,0 +1,2 @@
+# We need fill the trained weight file parameter to new generated model as initialization to reduce rerun effort
+# Each descendant shall be able to inherit part of weight but we need initialize the mutation part
